@@ -12,3 +12,4 @@ contract DeptExpansion is OphirWorkers {
         noofworkers = _noofworkers +5;
     }
 }
+ 

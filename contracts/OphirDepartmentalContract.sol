@@ -20,4 +20,4 @@ contract OphirPowerhouse {
     }
 
     //Added availability of workers for confirmation on whether workers are available or not
-}
+} 

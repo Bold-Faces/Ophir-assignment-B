@@ -24,4 +24,4 @@ contract OphirPowerhouseI {
         OphirWorkers Institute = DepartmentList[_DepartmentIndex];
         return Institute.checknoofworkers();
     }
-}
+} 

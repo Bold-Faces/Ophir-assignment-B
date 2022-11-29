@@ -14,4 +14,4 @@ contract OphirWorkers {
     function checknoofworkers() view public returns (uint) {
         return noofworkers;
     }
-}
+} 
